@@ -1,0 +1,5 @@
+pandas==2.1.4
+yagmail==0.15.293
+keyring==24.3.0
+random-user-agent==1.0.1
+python-dotenv==1.0.0 
